@@ -7,7 +7,7 @@ This is a simple password generator script written in Python. It generates rando
 To use the password generator, simply run the `passwordgen.py` script and specify the desired password length as a command-line argument:
 
 ```
-python passwordgen.py bbbghb
+python passwordgen.py 
 ```
 
 This will generate a random password of length 9 and print it to the console.
